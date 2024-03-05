@@ -3,9 +3,9 @@
 
 ## Description
 * Make all snack machines on the map usable to sell items.
-* 1. delete main from the folder name
-* 2. add the folder to your resources
-* 3. start vs_vendingmachine in server.cfg
+* delete main from the folder name
+* add the folder to your resources
+* start vs_vendingmachine in server.cfg
 
  ## Support
  If you have any questions, please do not hesitate to contact me on my Discord server
